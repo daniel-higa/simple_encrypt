@@ -5,6 +5,7 @@ Require:
 * bash
 * open ssl with aes256
 * sed
+* tar
 
 Usage:
 
